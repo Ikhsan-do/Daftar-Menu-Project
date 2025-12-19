@@ -1,10 +1,19 @@
 // Data makanan
 var foods = [
-    {id: 1, name: "Nasi Goreng", price: 25000, desc: "Nasi goreng spesial"},
-    {id: 2, name: "Mie Goreng", price: 20000, desc: "Mie goreng enak"},
-    {id: 3, name: "Ayam Goreng", price: 30000, desc: "Ayam goreng krispi"},
-    {id: 4, name: "Es Teh", price: 5000, desc: "Es teh manis"},
-    {id: 5, name: "Kopi", price: 10000, desc: "Kopi hitam/susu"}
+    {id: 1, name: "Nasi Goreng", price: 18000, desc: "Nasi goreng spesial"},
+    {id: 2, name: "Mie Goreng", price: 18000, desc: "Mie goreng enak"},
+    {id: 3, name: "Ayam Goreng", price: 12000, desc: "Ayam goreng krispi"},
+    {id: 4, name: "Kentang Goreng", price: 12000, desc: "Kentang Goreng krispi"},
+    {id: 5, name: "Dimsum", price: 12000, desc: "Dimsum Mentai"},
+    {id: 6, name: "Cireng", price: 12000, desc: "Cireng Pedas"},
+    {id: 7, name: "Nasi Telor", price: 12000, desc: "Nasi Telor Dadar"},
+    {id: 8, name: "Risol Mayo", price: 12000, desc: "Risol Mayo"},
+    {id: 9, name: "Es Teh", price: 5000, desc: "Es teh manis"},
+    {id: 10, name: "Air Mineral", price: 5000, desc: "Le Mineral"},
+    {id: 11, name: "Lemon Tea", price: 5000, desc: "Es/Hot Lemon Tea"},
+    {id: 12, name: "Dancow", price: 5000, desc: "Dancow Putih/Coklat"},
+    {id: 13, name: "Matcha", price: 5000, desc: "MilkShake Matcha"},
+    {id: 14, name: "Kopi", price: 4000, desc: "Kopi Sachet"}
 ];
 
 // Keranjang
@@ -206,4 +215,5 @@ function tampilkanPesan(text, type) {
     setTimeout(function() {
         $("#message").fadeOut();
     }, 2000);
+
 }
