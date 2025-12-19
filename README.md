@@ -34,4 +34,4 @@ Sistem Informasi - Universitas Kuningan
 Email: 20240910029@uniku.ac.id
 
 ## License
-This project is for educational purposes.
+This project is for assignment fulfillment purposes.
