@@ -3,7 +3,7 @@
 ![Daftar Menu](https://img.shields.io/badge/Status-Complete-green)
 
 **Repository:** Online-Menu-Project/
-**Live Demo:** https:/Ikhsan-do.github.io/Online-Menu-Project/
+**Live Demo:** https:/Ikhsan-do.github.io/Daftar-Menu-Project/
 
 ## Project Structure
 
